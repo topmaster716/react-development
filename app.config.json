@@ -1,0 +1,10 @@
+{
+  apps : [
+    {
+      name      : "To-do",
+      script    : "serve -s build -l 6001",
+      interpreter: "none",
+      args: ""
+    }
+  ]
+}
